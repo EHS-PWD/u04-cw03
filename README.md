@@ -1,4 +1,4 @@
-### **Lesson Classwork: Classes, IDs, Pseudo-Classes, and Pseudo-Elements**
+Classes, IDs, Pseudo-Classes, and Pseudo-Elements**
 
 **Objective:**  
 Students will apply their knowledge of classes, IDs, pseudo-classes, and pseudo-elements through a series of coding challenges to reinforce understanding of CSS selectors, interactivity, and targeted styling.
